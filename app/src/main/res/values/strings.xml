@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palindrome Check</string>
+    <string name="buttonCheck">Palindrome Check</string>
+    <string name="buttonClik">onButtonClick</string>
+</resources>
